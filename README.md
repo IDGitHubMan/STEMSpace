@@ -83,3 +83,4 @@ STEMSpace will be split into areas, that lead to their own labs or "spaces". For
             - [ ] Create a Collatz Conjecture lab
             - [ ] Create a metallics lab
             - [ ] Create a polygonate numbers lab
+- [ ] Build app, with py2app!
