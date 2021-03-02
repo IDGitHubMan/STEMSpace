@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NodeView">
+        <attr name="showText" format="boolean" />
+        <attr name="edgeBehaviors" format="enum">
+            <enum name="bounce" value="0"/>
+            <enum name="loop" value="1"/>
+            <enum name="terminate" value="2"/>
+        </attr>
+        <attr name="bgColor" format="color"/>
+    </declare-styleable>
+</resources>
