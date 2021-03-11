@@ -31,56 +31,11 @@ STEMSpace will be split into areas, that lead to their own labs or "spaces". For
 - [x] Make README
 - [x] Make Gitignore
 - [x] Plan Organization
-- [ ] Build Python Project
-    - [ ] Home Screen
-    - [ ] SciSpace
-        - [ ] ChemSpace
-            - [ ] Periodic Table
-                - [ ] First-Time Entrance Pop-Up
-                - [ ] Create class "table" that organizes elements and properties
-                - [ ] Create class "series" (ie alkali earth metals, noble gases, etc)
-                - [ ] Create a class for "element" that contains element data
-                - [ ] Create table variants for isotopes, etc.
-            - [ ] Atom Builder
-                - [ ] First-Time Entrance Pop-Up
-                - [ ] Create "proton" class
-                - [ ] Create "neutron class
-                - [ ] Create function that counts current protons and neutrons, and 
-                checks for element, stability, etc.
-            - [ ] Molecule Builder
-                - [ ] Create class atom, that has property element, and valence
-                - [ ] Function that attempts to name the created molecule
-                - [ ] Function that attempts to define reactivity, etc
-            - [ ] Reactions Lab
-                - [ ] Define classes for different chemicals, stores properties
-                - [ ] Create the function that does the reacting
-                - [ ] Visualize! (Gases should look different from, liquids, solids, etc)
-        - [ ] BioSpace
-            - [ ] Tree of Life
-                - [ ] Create classes for every level. I mean *every*, ***every*** level.
-                - [ ] Create anatomical images and buttons/pop-ups, as well as facts, stats for every organism. ***EVERY*** organism. (Lol, this is going to be tough.)
-            -  [ ] ALife
-                - [x] Cellular Automata
-                    - [x] Define a class for the cell engine, which has several toggles for neighborhoods, states, etc.
-                    - [x] Define array for cells
-                    - [x] Define the buffer array, to ensure all cells change at once.
-                - [ ] Agent Systems
-                    - [ ] Define a class for the agent, toggles for behaviors and such
-                    - [ ] Create a world for the agent, which also has some toggles and controls
-    - [ ] TechSPace
-        - [ ] Sound + Sound Modulation
-            - [x] Create a tone generator
-            - [ ] Display the tone, albeit at a lower frequency
-            - [ ] Create a proper function for modulation
-            - [ ] Make it interactive
-    - [ ] MathSpace
-        - [ ] Randomness
-            - [ ] Functions for different types of randomness
-            - [ ] Create different visualizations of different kinds of randomness
-        - [ ] Sequences + Series
-            - [ ] Create a geometric sequence interpreter
-            - [ ] Create an arithmetic sequence interpreter
-            - [ ] Create a Collatz Conjecture lab
-            - [ ] Create a metallics lab
-            - [ ] Create a polygonate numbers lab
-- [ ] Build app, with py2app!
+- [x] Make Xcode Project
+- [x] Make Android Studio Project
+- [x] Format Home Screen
+    - [ ] Implement in XCode
+    - [x] Implement in Android Studio
+- [x] Format Second Screen
+    - [ ] Implement in XCode
+    - [ ] Implement in Android Studio
