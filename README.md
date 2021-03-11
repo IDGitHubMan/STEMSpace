@@ -1,5 +1,5 @@
 # What is STEMSpace?
-STEMSpace hopes to create interactive labs for anybody (although students are the main target) to understand, explore, and experiment with the worlds of Science, Technology, and Mathematics. I hope that it will be built efficiently first for MacOS with python and the py2app tool, then maybe extending to other platforms.
+STEMSpace hopes to create interactive labs for anybody (although students are the main target) to understand, explore, and experiment with the worlds of Science, Technology, and Mathematics. I hope that it will be built efficiently first for MacOS with Xcode and for Android with Android Studio, then maybe extending to other platforms.
 
 ## Basic Organization
 STEMSpace will be split into areas, that lead to their own labs or "spaces". For an overview, you can click [here](https://coggle.it/diagram/YDJtVy31dzpo0GU4/t/stemspace-frame-layout/ede6290155445b981a58907b730c278a6a8ad11c5b30106bd9e99eeb650f94b0). This layout is bound to change and/or expand at any time, but feel free to make reccomendations for possible labs or "spaces".
