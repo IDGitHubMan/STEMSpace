@@ -15,8 +15,6 @@ import org.w3c.dom.Node;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-    Random random = new Random();
-    String[] actArray = new String[5];
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     protected void onCreate(Bundle savedInstanceState) {

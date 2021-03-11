@@ -6,14 +6,10 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.os.Build;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
-
 import androidx.annotation.RequiresApi;
-
 import java.util.Random;
-
 import static android.graphics.Color.rgb;
 
 @RequiresApi(api = Build.VERSION_CODES.O)
@@ -43,13 +39,11 @@ public class HomeNodeView extends View {
     }
 
     public static int getScreenWidth() {
-        int w = Resources.getSystem().getDisplayMetrics().widthPixels;
-        return w;
+        return Resources.getSystem().getDisplayMetrics().widthPixels;
     }
 
     public static int getScreenHeight() {
-        int h = Resources.getSystem().getDisplayMetrics().heightPixels;
-        return h;
+        return Resources.getSystem().getDisplayMetrics().heightPixels;
     }
 
 
